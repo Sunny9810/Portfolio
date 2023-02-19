@@ -282,12 +282,12 @@ footer p{
     }
     
     header {
-      background: #772014;
+      background: blue;
     }
     
     nav,
     footer {
-      background-color: #bb8588;
+      background-color: pink;
     }
   }
   
