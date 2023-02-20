@@ -42,6 +42,7 @@ Welcome to my Portfolio.This portfolio will showcase my skills.
 
  * The webpage presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them.
  *  The Website is presented with a responsive layout that adapts to my viewport.
+ * All commits has been made to screenshot all  changes on all the files
 
 
  ## Support
