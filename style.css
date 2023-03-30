@@ -74,17 +74,17 @@ h4{
 .newsletter form{
     width: 380px;
     max-width: 100%;
-    position: relative;
+     position: relative;
     
 
 }
-.newsletter form input:first-child{
+.newsletter form input:first-child{  
     border:2px solid black;
     border-radius: 30px;
     width: 100%;
     padding: 14px 130px 14px 15px;
 }
-.newsletter form input:last-child{
+.newsletter form input:last-child{ 
     position: absolute;
     display: inline-block;
     outline:none;
